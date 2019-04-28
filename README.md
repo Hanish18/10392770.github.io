@@ -27,9 +27,7 @@ GREESHMA CHOWDARY PUTTAGUNTA (10392770)
 
 1.Environment set setup (installation of packages / libraries)
 
-2.Data Preprocessing (Data cleaning ,Creating different tabs,Working with Rshiny)
-
-3.Interactive Choropleth Map to show locations affected by coral bleeching 
+2.Interactive Choropleth Map to show locations affected by coral bleeching 
 
 
 Hanish Vasireddy (10402594)
