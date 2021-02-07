@@ -8,12 +8,12 @@ MSc Data Analytics
 
 DUBLIN BUSINESS SCHOOL
 
-**AUTHORS / TEAM MEMBERS / Student Names: ** ------------------------------------------------------------------------------------------
+**AUTHORS / TEAM MEMBERS / Student Names: ** ----------------------------------------------------------------------------------------
 
 Greeshma Chowdary Puttagunta -10392770
 
 Hanish Vasireddy -10402594
--------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------
 TOOLS FOR VISUALIZATION: Rshiny
 
 **LIBRARIES : eadxl","sqldf","ggplot2","plotly","shiny","ggthemes","leaflet","shinydashboard","shinycustomloader" **
